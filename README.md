@@ -1,10 +1,16 @@
-# Building an AWS SNS that sends SMS to your team
+### Building an AWS SNS that sends SMS to your team
+
+# Problem that was Presented 
 
 This is a sample application for demonstration purposes only. It is a very simple application devoted to managing advertisements (actually, it doesn't allow deletion and update of ads). The idea is demonstrate Spring Cloud AWS capabilities. In order to run it, you need a minimum AWS configuration (see below).
 
 The application allows users to create ads with a picture. Ads are stored in a RDS database in AWS. The project is configured to use MySQL, but that can be changed to use a different database (for instance, PostgreSQL). Pictures within ads are stored in a bucket in S3.
 
+# AWS Diagram of setting up the SNS
+
 Also the application has two different Spring profiles: `dev` and `prod`. While running `prod`, the application gets all properties(username, password, databasename...) to connect to a RDS database using AWS Secrets Manager for security purposes.
+
+## What is an SNS? 
 
 ## Prerequisites
 
