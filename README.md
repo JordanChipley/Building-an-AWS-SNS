@@ -1,4 +1,4 @@
-### Building an AWS SNS that sends SMS to your team
+# Building an AWS SNS that sends SMS to your team
 
 # Problem that was Presented 
 
