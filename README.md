@@ -1,6 +1,6 @@
 # Building an AWS SNS that sends SMS to your team
 
-# Problem that was Presented 
+## Problem that was Presented 
 
 This is a sample application for demonstration purposes only. It is a very simple application devoted to managing advertisements (actually, it doesn't allow deletion and update of ads). The idea is demonstrate Spring Cloud AWS capabilities. In order to run it, you need a minimum AWS configuration (see below).
 
