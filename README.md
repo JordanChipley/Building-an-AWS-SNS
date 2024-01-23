@@ -2,9 +2,7 @@
 
 ## Problem that was Presented 
 
-This is a sample application for demonstration purposes only. It is a very simple application devoted to managing advertisements (actually, it doesn't allow deletion and update of ads). The idea is demonstrate Spring Cloud AWS capabilities. In order to run it, you need a minimum AWS configuration (see below).
-
-The application allows users to create ads with a picture. Ads are stored in a RDS database in AWS. The project is configured to use MySQL, but that can be changed to use a different database (for instance, PostgreSQL). Pictures within ads are stored in a bucket in S3.
+During the 2024 Winter season we received heavy amounts of snow that forced the schools and some local businesses to close. But a vast majority of the workers for those local businesses did not know. So, many of them had to drive several miles in the inclement weather where they just had to turn back around and drive back home since nothing was open due to the weather. This gave me the idea that a lot of these people could of avoided traveling if the business had a SMS notification system in place that could alert everyone about any closings and changes the business would make during inclement weather.
 
 # AWS Diagram of setting up the SNS
 
