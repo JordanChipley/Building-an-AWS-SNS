@@ -14,15 +14,6 @@ Amazon Simple Notification Service (Amazon SNS) is a managed service that provid
 
 ## Run the application
 
-### Locally (dev)
-
-
-
-```
-cloud.aws.credentials.accessKey="your key"
-cloud.aws.credentials.secretKey="your secret"
-```
-
 If you have AWS CLI you can just run:
 
 	git clone https://github.com/codeurjc/spring-cloud-aws-sample
