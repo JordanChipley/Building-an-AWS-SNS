@@ -31,9 +31,8 @@ If you have AWS CLI you can just run:
 
 ### On AWS (prod)
 
-As you can see is not necessary to put database credentials to run the application, it gets the necessary values from AWS Secret Manager.
 
-### Works cited Links
+### Links to Topics
 
 Treichler, R., & Hardmeier, C. (2005). Schlagwortnormdatei Schweiz für Allgemeine öffentliche Bibliotheken: SNS. Amazon. https://docs.aws.amazon.com/sns/latest/dg/welcome.html 
 
