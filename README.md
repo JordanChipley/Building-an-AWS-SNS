@@ -40,11 +40,6 @@ If you have AWS CLI you can just run:
 
 ### On AWS (prod)
 
-If your EC2 instance has the appropriate role (see prerequisites above), and the jar file has been uploaded, and you have created your Secret
-
-    java -jar spring-cloud-aws-sample-0.1.0-SNAPSHOT.jar \
-	--spring.profiles.active=prod
-
 As you can see is not necessary to put database credentials to run the application, it gets the necessary values from AWS Secret Manager.
 
 ### Works cited Links
