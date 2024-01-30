@@ -16,7 +16,6 @@ Amazon Simple Notification Service (Amazon SNS) is a managed service that provid
 
 ### Locally (dev)
 
-If you have AWS CLI installed in your machine, spring-cloud-aws reads credentials automatically from your machine while trying to use AWS services, but If you don't have it installed, you need to specify the credentials in the `application-dev.properties` file or pass these as parameters launching the jar file:
 
 
 ```
