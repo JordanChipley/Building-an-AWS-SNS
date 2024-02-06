@@ -6,7 +6,7 @@ During the 2024 Winter season we received heavy amounts of snow that forced the 
 
 # AWS Diagram of setting up the SNS
 
-Also the application has two different Spring profiles: `dev` and `prod`. While running `prod`, the application gets all properties(username, password, databasename...) to connect to a RDS database using AWS Secrets Manager for security purposes.
+
 
 ## What is an SNS? 
 
