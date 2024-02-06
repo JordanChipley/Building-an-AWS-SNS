@@ -6,7 +6,7 @@ During the 2024 Winter season we received heavy amounts of snow that forced the 
 
 # AWS Diagram of setting up the SNS
 
-
+(Use the Page with all the AWS Groups an Arrows)
 
 ## What is an SNS? 
 
