@@ -12,7 +12,9 @@ During the 2024 Winter season we received heavy amounts of snow that forced the 
 
 Amazon Simple Notification Service (Amazon SNS) is a managed service that provides message delivery from publishers to subscribers (also known as producers and consumers). Publishers communicate asynchronously with subscribers by sending messages to a topic, which is a logical access point and communication channel. Clients can subscribe to the SNS topic and receive published messages using a supported endpoint type, such as Amazon Kinesis Data Firehose, Amazon SQS, AWS Lambda, HTTP, email, mobile push notifications, and mobile text messages (SMS). (Treichler & Hardmeier, 2005) (Insert PIC of SNS HERE)
 
-## Run the application
+## Run the application 
+
+(Maybe talk about possible faults)
 
 
 
