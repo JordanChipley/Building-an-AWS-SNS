@@ -14,7 +14,7 @@ Amazon Simple Notification Service (Amazon SNS) is a managed service that provid
 
 ## Run the application 
 
-(Maybe talk about possible faults)
+(Maybe talk about possible faults) (Actions to take after)
 
 
 
