@@ -1,4 +1,4 @@
-# Building an AWS SNS that sends SMS to your team
+(# Building an AWS SNS that sends SMS to your team
 
 ## Problem that was Presented 
 
@@ -14,7 +14,7 @@ Amazon Simple Notification Service (Amazon SNS) is a managed service that provid
 
 ## Run the application 
 
-(Maybe talk about possible faults) (Actions to take after)
+(Maybe talk about possible faults) (Actions to take after)(update)
 
 
 
