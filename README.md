@@ -6,7 +6,7 @@ During the 2024 Winter season we received heavy amounts of snow that forced the 
 
 # AWS Diagram of setting up the SNS (Link to Details Page)
 
-(Use the Page with all the AWS Groups an Arrows) (Map out Cloud Route) (Also cite the process)(Show examples from AWS)(ALSO THE WEBSITE)
+(Use the Page with all the AWS Groups an Arrows) (Map out Cloud Route) (Also cite the process)(Show examples from AWS)(ALSO THE WEBSITE)(Update)
 
 ## What is an SNS? 
 
