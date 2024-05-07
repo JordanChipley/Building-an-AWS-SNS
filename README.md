@@ -2,7 +2,7 @@
 
 ## Problem that was Presented 
 
-During the 2024 Winter season we received heavy amounts of snow that forced the schools and some local businesses to close. But a vast majority of the workers for those local businesses did not know. So, many of them had to drive several miles in the inclement weather where they just had to turn back around and drive back home since nothing was open due to the weather. This gave me the idea that a lot of these people could of avoided traveling if the business had a SMS notification system in place that could alert everyone about any closings and changes the business would make during inclement weather or any other type of event. This would save a lot of time and money overall.
+During the 2024 Winter season we received heavy amounts of snow that forced the schools and some local businesses to close. But a vast majority of the workers for those local businesses did not know. So, many of them had to drive several miles in the inclement weather where they just had to turn back around and drive back home since nothing was open due to the weather. This gave me the idea that a lot of these people could of avoided traveling if the business had a SMS notification system in place that could alert everyone about any closings and changes the business would make during inclement weather or any other type of event. This would save a lot of time and money overall a lot of energy.
 
 # AWS Diagram of setting up the SNS (Link to Details Page)
 
