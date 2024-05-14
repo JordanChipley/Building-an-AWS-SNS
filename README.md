@@ -21,7 +21,7 @@ Amazon Simple Notification Service (Amazon SNS) is a managed service that provid
 ### On AWS (prod)
 
 
-### Links to Topics
+### Links to Topics & AWS Sources
 
 Treichler, R., & Hardmeier, C. (2005). Schlagwortnormdatei Schweiz für Allgemeine öffentliche Bibliotheken: SNS. Amazon. https://docs.aws.amazon.com/sns/latest/dg/welcome.html 
 
