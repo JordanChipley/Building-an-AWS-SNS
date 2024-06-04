@@ -1,6 +1,6 @@
 (# Building an AWS SNS that sends SMS to your team Quickly without failing)
 
-## Problem that was Presented 
+## Problem that was Presented to me
 
 During Winter months of 2024 we received heavy amounts of snow that forced the schools and some local businesses to close. But a vast majority of the workers for those local businesses did not know. So, many of them had to drive several miles in the inclement weather where they just had to turn back around and drive back home since nothing was open due to the weather. This gave me the idea that a lot of these people could of avoided traveling if the business had a SMS notification system in place that could alert everyone about any closings and changes the business would make during inclement weather or any other type of event. This would save a lot of time and money overall a lot of energy.
 
