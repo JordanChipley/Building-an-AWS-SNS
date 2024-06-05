@@ -8,7 +8,7 @@ During Winter months of 2024 we received heavy amounts of snow that forced the s
 
 (Use the Page with all the AWS Groups and Symbols) (Map out Cloud Route) (Also cite the process)(Show examples from AWS)(ALSO THE WEBSITE)(Update) (Check with Amazon Online to see if correct)
 
-## What is an SNS? What is it used for?
+## What is an SNS? What is it used for? How can I use it?
 
 Amazon Simple Notification Service (Amazon SNS) is a managed service that provides message delivery from publishers to subscribers (also known as producers and consumers). Publishers communicate asynchronously with subscribers by sending messages to a topic, which is a logical access point and communication channel. Clients can subscribe to the SNS topic and receive published messages using a supported endpoint type, such as Amazon Kinesis Data Firehose, Amazon SQS, AWS Lambda, HTTP, email, mobile push notifications, and mobile text messages (SMS). (Treichler & Hardmeier, 2005) (Insert PIC of SNS HERE) (REference AWS)
 
