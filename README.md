@@ -73,7 +73,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project on AWS
+## About The Project on AWS and why i’m doing it
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
