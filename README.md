@@ -37,7 +37,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome README template to jumpstart your coding projects! 
     <br />
   </p>
 </div>
